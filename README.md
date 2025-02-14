@@ -1,8 +1,11 @@
-# Turborepo react-native starter
+# Turborepo기반 React-Native
 
-This is a community-maintained example. If you experience a problem, please submit a pull request with a fix. GitHub Issues will be closed.
+지금부터 시작합니다.
 
-## Using this example
+## 테스트
+
+
+## 참고사항: Using this example(아래부터는 예제 만드는 방법)
 
 Run the following command:
 
